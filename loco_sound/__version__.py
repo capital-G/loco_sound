@@ -1,0 +1,6 @@
+__title__ = 'loco_sound'
+__description__ = 'Sonification of model railways via Z21'
+__url__ = 'https://github.com/capital-G/loco_sound'
+__version__ = '0.0.1'
+__author__ = 'Dennis Scheiba'
+__license__ = 'GPL 2.0'
