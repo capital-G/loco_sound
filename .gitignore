@@ -1,6 +1,9 @@
 *.wav
 *.pkf
 speed_test.xlsx
+coverage/
+junit-tests.xml
+junit-mypy.xml
 
 # Created by .ignore support plugin (hsz.mobi)
 ### macOS template

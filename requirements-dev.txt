@@ -2,3 +2,5 @@ sphinx==2.3.*
 sphinx-autodoc-typehints==1.10.*
 flake8==3.7.*
 mypy==0.761
+coverage==5.0.*
+unittest-xml-reporting==2.5.*
